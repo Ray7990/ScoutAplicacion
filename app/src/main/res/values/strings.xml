@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">ScoutApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nueva">nueva</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_actividad">actividad</string>
+    <string name="title_activity_marco_simbolico">marcoSimbolico</string>
+    <string name="title_activity_tecnicas">tecnicas</string>
+    <string-array name="Listdanzas">
+        <item>Vieja pastora</item>
+        <item>El bozo</item>
+        <item>El alacrán</item>
+        <item>Tia Jacinta</item>
+        <item>Tupe</item>
+        <item>Vieja pastora</item>
+        <item>Todo Movimiento</item>
+        <item>Tengo un moco</item>
+        <item>Hola soy Curro</item>
+        <item>Mono</item>
+        <item>Piojo Juancho</item>
+        <item>Merequete</item>
+    </string-array>
+    <string-array name="Listcanciones">
+        <item>Siempre Lista</item>
+        <item>La piragua</item>
+        <item>Son mis siete compañeros</item>
+        <item>La canoa</item>
+        <item>Canción de la promesa</item>
+        <item>Himno de la Unidad</item>
+        <item>Himno de las golondrinas</item>
+        <item>La Fragua</item>
+        <item>Himno Manada</item>
+        <item>Himno Scout</item>
+        <item>Ahi viene</item>
+        <item>El señor huevero</item>
+    </string-array>
+    <string-array name="Listjuegos">
+        <item>Paco Ladrón</item>
+        <item>Cuerpo Tierra</item>
+        <item>Guerra de pañolines</item>
+        <item>El pescadito</item>
+        <item>La rueda diestra</item>
+        <item>Jimkana</item>
+        <item>Relevo del cangrejo</item>
+        <item>Carrera con cargas</item>
+        <item>Recogida de papas</item>
+        <item>Carrera de cubos</item>
+        <item>Carretilla</item>
+        <item>El cienpiés</item>
+    </string-array>
+    <string-array name="Listactividades">
+        <item>Problema de la carta</item>
+        <item>Cosas que todo scout debe conocer</item>
+        <item>Taller de nudo</item>
+        <item>Taller de claves y pistas</item>
+        <item>Taller de amarres</item>
+        <item>Taller de Tally</item>
+        <item>Buenas Acciones</item>
+        <item>Taller Ley Scout</item>
+        <item>Servicio Público</item>
+        <item>Ecología</item>
+        <item>Observación</item>
+        <item>Meteorología</item>
+    </string-array>
+    <string-array name="Listamenores">
+        <item>Lema</item>
+        <item>Bandera y tótem</item>
+        <item>Oración</item>
+        <item>Símbolos, signos y gestos</item>
+        <item>Saludo</item>
+        <item>Apretón de mano izquierda</item>
+        <item>Color Manada</item>
+        <item>Himno Manada</item>
+        <item>Color Golondrina</item>
+        <item>Himno Golondrinas</item>
+    </string-array>
+        <string-array name="Listamayores">
+            <item>Lema Scout</item>
+            <item>Bandera Scout</item>
+            <item>Oración Scout</item>
+            <item>Símbolos, signos y gestos</item>
+            <item>Saludo Scout</item>
+            <item>Apretón de mano izquierda</item>
+            <item>Color Rama Tropa</item>
+            <item>Himno Tropa</item>
+            <item>Lema Compañía</item>
+            <item>Bandera Compañía</item>
+            <item>Oración Compañía</item>
+            <item>Color Rama Compañía</item>
+            <item>Himno Compañia</item>
+    </string-array>
+    <string-array name="Listaclaves">
+        <item>Morse</item>
+        <item>Murciélago</item>
+        <item>Gato</item>
+        <item>Baden Powell</item>
+        <item>Eléctrica</item>
+        <item>Cardiaca</item>
+        <item>Siete Cruces</item>
+        <item>Celular</item>
+        <item>Cenit Polar</item>
+        <item>Agujerito</item>
+        <item>Media</item>
+        <item>Numérica</item>
+        <item>Zigzag</item>
+    </string-array>
+    <string-array name="Listnudos">
+        <item>Simple</item>
+        <item>Barrilito</item>
+        <item>Ocho</item>
+        <item>Corredizo</item>
+        <item>Horca</item>
+        <item>Llano</item>
+        <item>Pescador</item>
+        <item>Ballestrinque</item>
+        <item>Leñador</item>
+        <item>Margarita</item>
+        <item>Silla Bombero</item>
+        <item>As de guía</item>
+        <item>Cote doble</item>
+    </string-array>
+</resources>
