@@ -127,4 +127,11 @@
         <item>Cote doble</item>
     </string-array>
     <string name="title_activity_splash_screen">splash_screen</string>
+    <string name="title_activity_lista_contenido">listaContenido</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="title_activity_lista_contenido3">listaContenido3</string>
+    <string name="title_activity_lista_contenido4">listaContenido4</string>
+    <string name="title_activity_lista_contenido5">listaContenido5</string>
+    <string name="title_activity_lista_contenido6">listaContenido6</string>
+    <string name="title_activity_lista_contenido8">listaContenido8</string>
 </resources>
